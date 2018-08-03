@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DB076C8B202A34C500386052 /* GLUT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB076C8A202A34C500386052 /* GLUT.framework */; };
+		DB076C8B202A34C500386052 /* GLUT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB076C8A202A34C500386052 /* GLUT.framework */; settings = {ATTRIBUTES = (Required, ); }; };
 		DB47A220205151FE00F34E67 /* MavlinkNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DB47A219205151FD00F34E67 /* MavlinkNode.cpp */; };
 		DB47A221205151FE00F34E67 /* MavlinkTranslation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DB47A21E205151FE00F34E67 /* MavlinkTranslation.cpp */; };
 		DB47A222205151FE00F34E67 /* PracticalSocket.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DB47A21F205151FE00F34E67 /* PracticalSocket.cpp */; };
